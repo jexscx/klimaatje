@@ -1,0 +1,26 @@
+{
+  "name": "free-projects-week",
+  "version": "1.0.0",
+  "description": "Weather arduino project",
+  "main": "start-server.js",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "johnny-five": "^1.3.1",
+    "nodejs": "^0.0.0",
+    "ol": "^6.0.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.fhict.nl/I410676/free-projects-week.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
